@@ -1,5 +1,3 @@
-using System;
-
 namespace ConsoleApp.Domain.Animals
 {
 	internal interface IInventory

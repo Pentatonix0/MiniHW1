@@ -1,6 +1,4 @@
-using System;
-
-namespace ConsoleApp.Domain.Things.Entities
+namespace ConsoleApp.Domain.Things
 {
 	public class Computer : Thing
 	{

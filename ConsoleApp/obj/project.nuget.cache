@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oACydsdRJzEiIyOCZQrfFKmenUgIOMPA6xXCAdWOkfFY3A0baOc5rUZv4r98RKexTzYA6oEvy5gyLBIvMkYbAA==",
+  "dgSpecHash": "dg+m5x2ogXUaqAYuDhxKJPnnJcq60DNdnLGPDbwpH1iFUJaVwRXSenYk8iyIuNeJcWQNDEG3TF+YKR1oQahdCQ==",
   "success": true,
   "projectFilePath": "E:\\HSE\\course2\\software design\\seminars\\MiniHW1\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

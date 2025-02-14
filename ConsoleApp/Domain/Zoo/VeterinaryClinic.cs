@@ -4,7 +4,7 @@ namespace ConsoleApp.Domain.Zoo
 
 	public class VeterinaryClinic : IVeterinaryClinic
 	{
-		public bool CheckHealth(Animal animal)
+		public bool VerifyHealthStatus(Animal animal)
 		{
 			return animal.IsHealthy;
 		}

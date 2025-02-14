@@ -1,6 +1,3 @@
-using System;
-
-
 namespace ConsoleApp.Domain.Animals
 {
   public class Herbo : Animal

@@ -12,3 +12,7 @@ E:\HSE\course2\software design\seminars\MiniHW1\ConsoleApp\obj\Debug\net7.0\refi
 E:\HSE\course2\software design\seminars\MiniHW1\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
 E:\HSE\course2\software design\seminars\MiniHW1\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
 E:\HSE\course2\software design\seminars\MiniHW1\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
+E:\HSE\course2\software design\seminars\MiniHW1\ConsoleApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\HSE\course2\software design\seminars\MiniHW1\ConsoleApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HSE\course2\software design\seminars\MiniHW1\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+E:\HSE\course2\software design\seminars\MiniHW1\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CopyComplete
